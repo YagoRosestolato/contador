@@ -1,0 +1,50 @@
+body {
+  background-image:linear-gradient(to right,#A8C69F, #cef289);
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1 {
+  color: black;
+}
+
+section {
+  background-color: rgba(17, 15, 15, 0.098);
+  border-radius: 10px;
+  width: 600px;
+  height: 400px;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+  
+}
+
+input {
+  font-size: 25px;
+  border: 2px solid black;
+  margin-top: 25px;
+  background-color: #ffffffe6;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+div#res{
+  font-size: 25px;  
+}
+
+#btn:hover{
+  border: none;
+  padding: 10px 30px;
+  background-color: rgba(0, 128, 0, 0.552);
+}
+
